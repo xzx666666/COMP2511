@@ -1,0 +1,24 @@
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "room", "venue": "Zoo", "room": "Hippo", "size": "medium" }
+{ "command": "room", "venue": "Zoo", "room": "Elephant", "size": "large" }
+{ "command": "room", "venue": "Gardens", "room": "Figtree", "size": "large" }
+{ "command": "room", "venue": "Gardens", "room": "Figtree", "size": "medium" }
+{ "command": "room", "venue": "Gardens", "room": "Figtree", "size": "large" }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Annual Meeting1", "start": "2019-03-25", "end": "2019-03-26", "small": 0, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Annual Meeting2", "start": "2019-03-23", "end": "2019-03-27", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "Annual Meeting3", "start": "2019-01-25", "end": "2019-01-26", "small": 2, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Annual Meeting4", "start": "2019-03-15", "end": "2019-03-16", "small": 0, "medium": 2, "large": 0 }
+{ "command": "request", "id": "Mattress Convention", "start": "2019-03-24", "end": "2019-03-27", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Dance Party", "start": "2019-03-21", "end": "2019-03-28", "small": 0, "medium": 1, "large": 1 }
+{ "command": "change", "id": "Annual Meeting1", "start": "2019-03-19", "end": "2019-03-20", "small": 1, "medium": 1, "large": 0 }
+{ "command": "change", "id": "Annual Meeting", "start": "2019-03-17", "end": "2019-03-19", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "CSE Autumn Ball", "start": "2019-03-25", "end": "2019-03-26" , "small": 1, "medium": 0, "large": 0 }
+{ "command": "cancel", "id": "Annual Meeting1" }
+{ "command": "cancel", "id": "Dance Party" }
+{ "command": "change", "id": "Annual Meeting1", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "cancel", "id": "Annual Meeting2" }
+{ "command": "request", "id": "Vivid", "start": "2019-03-22", "end": "2019-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "Zoo" }
+{ "command": "list", "venue": "Gardens" }
+

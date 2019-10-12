@@ -1,0 +1,7 @@
+{ "command": "room", "venue": "Zoo", "room": "Penguin", "size": "small" }
+{ "command": "request", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Annual Meeting1", "start": "2019-03-27", "end": "2019-03-28", "small": 1, "medium": 0, "large": 0 }
+{ "command": "change", "id": "Annual Meeting", "start": "2019-03-25", "end": "2019-03-28", "small": 1, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "Zoo" }
+
+
